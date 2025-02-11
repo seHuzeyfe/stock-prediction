@@ -25,8 +25,8 @@ STOCK_PREDICTION/
 ## Setup Instructions and File Run Order
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/STOCK_PREDICTION.git
-cd STOCK_PREDICTION
+https://github.com/seHuzeyfe/stock-prediction.git
+cd stock-prediction
 ```
 
 ### 2. Create a Virtual Environment
