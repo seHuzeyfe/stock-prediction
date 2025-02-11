@@ -25,7 +25,7 @@ STOCK_PREDICTION/
 ## Setup Instructions and File Run Order
 ### 1. Clone the Repository
 ```bash
-https://github.com/seHuzeyfe/stock-prediction.git
+git clone https://github.com/seHuzeyfe/stock-prediction.git
 cd stock-prediction
 ```
 
